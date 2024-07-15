@@ -8,7 +8,7 @@ Duration:-June 15th 2024 to July 15th 2024
 Mentor:-Neela Santhosh
 
 Overview of the Project:-
-Project:-To Do List Web Application
+To Do List Web Application
 
 Objective:-
 The objective of a To-Do List web application is to provide users with an intuitive and efficient platform to manage their tasks and activities.The application should provide a user-friendly interface and a seamless experience for managing daily activities, enhancing productivity and organization
